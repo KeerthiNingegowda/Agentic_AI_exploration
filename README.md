@@ -2,7 +2,8 @@
 The goal of this exploration is to build a "true" agent - in this case specifically an onboarding agent with dynamic reasoning and tool use
 
 # Distinction between workflows and agents 
-<b> Workflow </b> The steps are pre-defined in order 
+
+<b> Workflow </b> The steps are pre-defined in order <br >
 <b> Agents </b> Perceives a state, reasons what to do to next, uses tools, handles failures and adapts. Note that an agent doesn't operate by a checklist, it has a goal and will try to take steps to achieve that goal.
 
 # Example agent - Onboarding agent
