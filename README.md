@@ -17,3 +17,24 @@ In this example, we explore how can one build an onboarding agent to automate so
 
 # Architecture design
 Tool of choice - Google ADK
+
+## Schematic diagram of Onboarding agent
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Evals 
+1) As a starting point checkout this playbook created using Claude - <a href = "https://github.com/KeerthiNingegowda/Agentic_AI_exploration/blob/main/Evals/Lenny's_podcast_Evals_playbook_checklist_created_by_Claude.pdf"> Evals Playbook </a>
+PS:- Personally we think this podcast falls short in cold start scenarios, i.e. where there are no real users yet in prod. Start by some member of your team to test it initially as opposed to just doing "vibe checks"
+2) Evals are not unit tests - https://www.youtube.com/watch?v=L8OoYeDI_ls
